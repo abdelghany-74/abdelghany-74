@@ -1,6 +1,5 @@
 # Welocome 👋
-This is my first responsive portdolio website 
-please if you have any comment to upgrade it, tell me.
+
 # 💫 About Me:
 I am a student in the faculty of computer science-CU 3rd year, and I am Extremely motivated to<br>constantly develop my skills in back-end engineering and grow professionally.<br>I am a strong team player who can quickly learn and implement new technologies.
 
